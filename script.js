@@ -23,15 +23,14 @@
             title: 'Smart Bottle Trash Sorter',
             subtitle: 'An Iot-enabled smart recycling system that automatically identifies and sorts plastic bottles and metal cans while encouraging recycling behavior through a reward point system. Selected by Thailands National Research Council (สถาบันวิจัยแห่งชาติ) to presented at the China (Shanghai) International Invention & Innovation Expo 2026.',
             images: [
-                'images/innovation_1.jpg',
+                'images/innovation_1.png',
                 'images/innovation_2.jpg',
                 'images/innovation_3.jpg',
                 'images/innovation_4.jpg',
                 'images/innovation_5.jpg',
                 'images/innovation_6.png',
                 'images/innovation_7.png',
-                'images/innovation_8.png',
-                'images/innovation_9.png'
+                'images/innovation_8.png'
             ],
             problem: 'Plastic waste is one of the growing environmental challenges in Thailand. Even when recycling bins are available, recyclable materials are often mixed with general waste because of incorrect sorting, lack of awareness, or convenience. This reduces recycling efficiency, increases landfill waste, and creates additional workload for waste management staff.',
             idea: 'Our team developed the Smart Bottle Trash Sorter to make recycling easier, smarter, and more engaging. The project automatically separates recyclable materials, reduces human error, improves recycling efficiency, and motivates users through a reward point system.',
@@ -43,9 +42,8 @@
                 { label: 'Data Recording', description: 'The system records user data and recycling activity through Google Sheets for point accumulation and monitoring. ' }
             ],
             recognition: [
-                'International Innovation Showcase',
                 'Selected by NRCT Thailand (วช.)',
-                'China (Shanghai) International Invention & Innovation Expo 2026'
+                'Shanghai Invention Expo 2026'
             ],
             technologies: ['Sensors', 'Motor Control', 'IoT Systems', 'Google Sheets API'],
             timeline: ['6 Months'],

@@ -2814,8 +2814,21 @@ a {
         line-height: 1.55;
     }
 
+    .recognition-list {
+        gap: 0.35rem;
+        padding-left: 0.85rem;
+    }
+
     .recognition-list li {
-        font-size: 0.8rem;
+        font-size: 0.75rem;
+        line-height: 1.4;
+    }
+
+    .recognition-list .recognition-item--highlight {
+        padding: 0.45rem 0.55rem;
+        margin-left: -0.25rem;
+        font-size: 0.72rem;
+        line-height: 1.35;
     }
 
     .modal-card .project-tags span {
@@ -3314,6 +3327,11 @@ a {
     .modal-card #modalTeam p,
     .recognition-list li {
         font-size: 0.78rem;
+    }
+
+    .recognition-list .recognition-item--highlight {
+        padding: 0.4rem 0.5rem;
+        font-size: 0.68rem;
     }
 
     .modal-wrap h3 {
